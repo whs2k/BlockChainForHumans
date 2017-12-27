@@ -4,3 +4,4 @@
 
 Pure Python Implementation of a Distributed Smart Contract Ledger
 ### All Credit to: [aunyks](https://twitter.com/aunyks)
+https://medium.com/crypto-currently/lets-build-the-tiniest-blockchain-e70965a248b
